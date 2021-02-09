@@ -196,14 +196,14 @@ Publish the website in the given URL.
 ```
 ## OUTPUT:
 
-![output]:(./static/img/01.jpg)
-![output]:(./static/img/02.jpg)
-![output]:(./static/img/03.jpg)
-![output]:(./static/img/o4.png)
+![output](./static/img/o1.jpg)
+![output](./static/img/o2.jpg)
+![output](./static/img/o3.jpg)
+![output](./static/img/o4.png)
 
 
 ## validation report:
-![output]:(./static/img/v1.jpg)
+![output](./static/img/v1.jpg)
 
 ## RESULT:
-Thus a website is designed for the chip manufacturing company and is hosted in the URL http://sriharish.student.saveetha.in:8000/responsivepage.HTML code is validated
+Thus a website is designed for the chip manufacturing company and is hosted in the URL http://sriharish.student.saveetha.in:8000/responsivepage . HTML code is validated
